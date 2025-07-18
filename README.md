@@ -92,18 +92,3 @@ GradePredictionModel/
 └── README.md
 ```
 
----
-
-## 🧠 Future Ideas
-
-- Sequence-based modeling (RNN/LSTM) for variable-length histories  
-- Support for multi-student datasets  
-- Integration with CAPE API or data scrapers  
-- GPA prediction or course recommendation systems  
-
----
-
-## 📬 Contact
-
-Created by [Your Name]  
-Let me know if you'd like help contributing or extending the project!
